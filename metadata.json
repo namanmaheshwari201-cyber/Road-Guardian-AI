@@ -1,0 +1,6 @@
+{
+  "name": "RoadGuardian AI",
+  "description": "A modern AI-powered road safety platform combining traffic law assistance, road watch transparency, and emergency SOS services.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
